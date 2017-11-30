@@ -10,3 +10,7 @@
 	path = env
 	url = https://git.coding.net/fanruan/report-env.git
 	branch = master
+[submodule "plugins/nice-login"]
+	path = plugins/nice-login
+	url = https://git.coding.net/fanruan/plugin-decision-nice-login.git
+	branch = master
