@@ -1,0 +1,12 @@
+[submodule "design"]
+	path = design
+	url = https://git.coding.net/fanruan/report-design.git
+	branch = master
+[submodule "lib-design"]
+	path = lib-design
+	url = https://git.coding.net/fanruan/report-lib-design.git
+	branch = master
+[submodule "env"]
+	path = env
+	url = https://git.coding.net/fanruan/report-env.git
+	branch = master
