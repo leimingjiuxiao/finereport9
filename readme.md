@@ -19,7 +19,7 @@ git submodule foreach git pull
 启动设计器后，访问决策平台，在设置好管理员用户名和密码后，退出登录，可以看到登录界面是插件中实现的界面
 
 ## 更新依赖lib
-只需要从ftp://env.finedevelop.com/report9.0/stable下载并替换掉env/WebReport/WEB-INF/lib中的以下几个jar包即可
+只需要从 ftp://env.finedevelop.com/report9.0/stable 下载并替换掉env/WebReport/WEB-INF/lib中的以下几个jar包即可
 
 fr-core-9.0.jar
 
