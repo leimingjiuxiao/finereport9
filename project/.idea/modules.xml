@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/designer/designer.iml" filepath="$PROJECT_DIR$/designer/designer.iml" group="design" />
+      <module fileurl="file://$PROJECT_DIR$/designer_base/designer_base.iml" filepath="$PROJECT_DIR$/designer_base/designer_base.iml" group="design" />
+      <module fileurl="file://$PROJECT_DIR$/designer_chart/designer_chart.iml" filepath="$PROJECT_DIR$/designer_chart/designer_chart.iml" group="design" />
+      <module fileurl="file://$PROJECT_DIR$/designer_form/designer_form.iml" filepath="$PROJECT_DIR$/designer_form/designer_form.iml" group="design" />
+      <module fileurl="file://$PROJECT_DIR$/nice-login/nice-login.iml" filepath="$PROJECT_DIR$/nice-login/nice-login.iml" group="plugins" />
+    </modules>
+  </component>
+</project>
