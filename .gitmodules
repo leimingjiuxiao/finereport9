@@ -14,3 +14,7 @@
 	path = plugins/nice-login
 	url = https://git.coding.net/fanruan/plugin-decision-nice-login.git
 	branch = master
+[submodule "plugins/formula-script"]
+	path = plugins/formula-script
+	url = https://git.coding.net/fanruan/plugin-formula-script.git
+	branch = master
