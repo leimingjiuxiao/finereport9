@@ -2,7 +2,7 @@
 
 ## 克隆整个工程
 ```
-git clone https://git.coding.net/fanruan/report-starter.git --recursive
+git clone https://gitee.com/fanruan/finereport9.git --recursive
 ```
 
 ## 更新所有子模块
